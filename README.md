@@ -1,6 +1,6 @@
 # App Support
 
-Welcome to the support page for the **MyRivals** iOS application.
+Welcome to the support page for the **RivalsTracker** iOS application.
 
 If you're experiencing an issue with the app or have a feature request, you can submit a support request by opening an issue in this repository. Please follow the steps below to help us assist you as quickly as possible.
 
@@ -8,7 +8,7 @@ If you're experiencing an issue with the app or have a feature request, you can 
 
 To report a bug or request help:
 
-1. Go to the [Issues](https://github.com/migsmush/MyRivalsSupport/issues) tab at the top of this page.
+1. Go to the [Issues](https://github.com/migsmush/RivalsTrackerSupport/issues) tab at the top of this page.
 2. Click **"New Issue"**.
 3. Choose either **"Bug Report"** or **"Feature Request"**.
 4. Fill out the issue template with as much detail as possible.
@@ -50,4 +50,4 @@ If you’d like to suggest a new feature, please:
 
 ---
 
-Thank you for helping us improve **MyRivals**!
+Thank you for helping us improve **RivalsTracker**!
